@@ -2,7 +2,6 @@
 
 A multi-agent AI system that analyses CSV and Excel datasets, detects data quality issues, scores your data, and helps you clean it — all through a simple web interface.
 
-Built as a Final Year B.Tech Project.
 
 ---
 
